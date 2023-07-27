@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: teal;
 }
 
 img {
@@ -11,14 +11,50 @@ border-radius: 20px;
 }
 
 
-p {
+.indexcss p {
 
  font-size: 50pt;
  text-align: center;
 }
 
+.aboutcss p {
+
+    font-size: 30pt;
+    text-align: center;
+   }
+   
 h1{
 
     text-align: center;
 
 }
+
+.head {
+
+}
+
+
+.topnav {
+
+    background-color: mediumseagreen;
+    overflow: hidden;
+}
+
+.topnav a{
+
+    float: left;
+    color: mintcream;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: seagreen;
+    font-size: 30px ;
+}
+
+.topnav a:hover{
+
+background-color: yellowgreen;
+color: steelblue;
+
+}
+
+
