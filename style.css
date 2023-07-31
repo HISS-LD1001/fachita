@@ -81,4 +81,24 @@ h4{
     text-align: center;
     font-size: 70pt;
 
+
+
+
+}
+
+
+
+
+.row{ 
+
+
+    display:flex;
+}
+
+
+
+.column{
+
+    flex: 50%;
+    padding: 5px;
 }
